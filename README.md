@@ -9,7 +9,7 @@ Selenium WebDriver
 ChromeDriver (or other browser driver as needed)
 
 # Instructions to run scripts
-1. Clone this repository to your local machine https://github.com/anilb394/lynx-dof-flow.git
+1. Clone this repository to your local machine https://github.com/anilb394/lynx-test.git
 2. Install the required dependencies/packges
 3. Download the appropriate WebDriver for your browser (e.g., ChromeDriver) and place it in the project directory.
 4. Run the Selenium scripts for provided tests: 
