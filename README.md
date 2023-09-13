@@ -10,7 +10,7 @@ This is present in excel "Test assignment.xlsx". First sheet represents test sce
 
 ## Instructions to run scripts
 1. Clone this repository to your local machine https://github.com/anilb394/lynx-test.git
-2. Install the required dependencies/packges
+2. Install the required dependencies/packges as per script being executed
 3. Download the appropriate WebDriver for your browser (e.g., ChromeDriver) and place it in the project directory.
 4. Run the Selenium scripts for below individual test cases files as mentioned in excel as reference: 
 TC01. DOF_start_page.py  
