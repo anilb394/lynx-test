@@ -2,7 +2,7 @@
 This repository is created to maintain automation tests prepared for Digital Account opening form using Python. It contains solution to the automation assignment.
 
 ## Test Scenario and Test case details
-This is present in excel "Test assignment.xlsx". First sheet represents test scenarios from assignment question and second sheet represents test cases for relevant scenarios with expected outcome
+This is present in excel "Test Scenario and Cases.xlsx". First sheet represents test scenarios from assignment question and second sheet represents test cases for relevant scenarios with expected outcome
 
 ## System Requirements
 1. Python 3.x
@@ -12,10 +12,9 @@ This is present in excel "Test assignment.xlsx". First sheet represents test sce
 ## Instructions to run scripts
 1. Clone this repository to your local machine https://github.com/anilb394/lynx-test.git
 2. Install the required dependencies/packges as per script being executed
-3. Make sure for avaialibity of config.py and selenium_utils.py files in same folder as scripts
+3. Make sure for avaialibity of config.py and selenium_utils.py files in folder " test-scripts" along with scripts 
 4. Download the WebDriver for your browser (e.g., ChromeDriver) and place it in the project directory.
-5. Run test scripts for below individual test cases files which are also detailed in excel as reference:
-   command to run script on terminal "python script_name.py" (replace script_name.py with actual file names from below)
+5. Run respective test scripts available in folder "test-scripts" for below individual test cases files which are also detailed in "Test Scenario and Cases.xlsx" excel as reference: Use command to run script on terminal'python script_name.py' (replace script_name.py with actual file names from below)
 
 ## Test scripts 
 1. tc01_dof_start_page.py
