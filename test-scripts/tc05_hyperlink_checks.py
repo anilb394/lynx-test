@@ -35,7 +35,8 @@ def main():
     time.sleep(5)
     try:
         assert driver.find_element(By.XPATH, "// *[ @ id = 'main']/div[2]/p[40]/strong[5]/a").is_displayed()
-        print("Datenschutzerklärung Hyperlink Navigation is Successful")
+        print("Test Passed: \n"
+              "Datenschutzerklärung Hyperlink Navigation is Successful")
 
     except Exception as e:
         print(f"Error: {e}")

@@ -73,7 +73,8 @@ def main():
     try:
         WebDriverWait(driver, 5).until(condition)
         assert driver.find_element(By.NAME, "iban_reference").is_displayed()
-        print("Test passed: Mandatory and Optional fields checks successful for Section Persönliche Angaben")
+        print("Test passed: \n"
+              "Mandatory and Optional fields checks successful for Section Persönliche Angaben")
 
     except Exception as e:
         print(f"Error: {e}")

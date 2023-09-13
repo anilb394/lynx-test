@@ -32,8 +32,8 @@ try:
     section5 = driver.find_element(By.XPATH, '//*[@id="masthead"]/nav[2]/div/div[2]/ul/li[5]/a')
     assert section5.is_displayed(), "Abschluss is not displayed"
 
-
-    print("DOF start page is loaded and All sections are displayed successfully!")
+    print("Test Passed: \n"
+          "DOF start page is loaded and All sections are displayed successfully!")
 
 except Exception as e:
     print(f"Error: {e}")
