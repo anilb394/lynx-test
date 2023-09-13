@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSelenium-20230913080020" tests="1" file=".py" time="0.002" timestamp="2023-09-13T08:00:22" failures="0" errors="0" skipped="0">
+	<testcase classname="TestSelenium" name="test_selenium_workflow" time="0.002" timestamp="2023-09-13T08:00:22" file="sample_testrun_xml_report.py" line="20"/>
+</testsuite>
