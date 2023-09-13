@@ -4,9 +4,9 @@ This repository is created to maintain automation tests prepared for Digital Acc
 This is present in excel "Test assignment.xlsx" First sheet represents test scenarios from assignment question Second sheet represents test cases for relevant scenarios with expected outcome
 
 ## System Requirements
-Python 3.x
-Selenium WebDriver
-ChromeDriver (or other browser driver as needed)
+1. Python 3.x
+2. Selenium WebDriver
+3. ChromeDriver (or other browser driver as needed)
 
 ## Instructions to run scripts
 1. Clone this repository to your local machine https://github.com/anilb394/lynx-test.git
