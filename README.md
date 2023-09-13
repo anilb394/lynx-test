@@ -20,4 +20,4 @@ invalid_missing_input.py- TC04
 hyperlink_checks.py- TC05
 
 # Bug report
-Sample bug report is attached by taking one scenario as an exmaple
+Sample bug report file "Sample_Bug_Report#1.docx"is attached as an exmaple
