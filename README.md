@@ -17,7 +17,7 @@ This is present in excel "Test assignment.xlsx". First sheet represents test sce
 5. Run test scripts for below individual test cases files which are also detailed in excel as reference:
    command to run script on terminal "python script_name.py" (replace script_name.py with actual file names from below)
 
-## Test Scripts to run
+## Test scripts 
 1. tc01_dof_start_page.py
 2. tc02_all_fields_check.py
 3. tc03_mandatory_fields_check.py
