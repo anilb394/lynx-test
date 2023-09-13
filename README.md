@@ -1,3 +1,4 @@
+## Description
 This repository is created to maintain automation tests prepared for Digital Account opening form using Python. It contains solution to the automation assignment.
 
 ## Test Scenario and Test case details
