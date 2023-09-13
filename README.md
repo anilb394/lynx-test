@@ -20,9 +20,9 @@ This is present in excel "Test Scenario and Cases.xlsx". First sheet represents 
 1. tc01_dof_start_page.py
 2. tc02_all_fields_check.py
 3. tc03_mandatory_fields_check.py
-4. tc04_hyperlink_checks.py
-5. tc05_invalid_missing_input.py
-   
+4. tc04_invalid_missing_input.py
+5. tc05_hyperlink_checks.py
+
 
 ## Bug report
 Sample bug report file "Sample_Bug_Report.docx"is attached as an example for observed issue
