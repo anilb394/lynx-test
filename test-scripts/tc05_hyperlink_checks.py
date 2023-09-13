@@ -27,10 +27,12 @@ def main():
     time.sleep(5)
     accept_dialogue(driver)
 
+    # Find hyerlinked text for click operation
     link_element = driver.find_element(By.XPATH, "//*[@id='wizard-content']/div/div/form/div[5]/div[2]/div/div[2]/p/a[1]")
     action_chains = ActionChains(driver)
     action_chains.click(link_element).perform()
 
+    # Switch focus on new tab
     driver.switch_to.window(driver.window_handles[-1])
     time.sleep(5)
     try:
@@ -42,8 +44,11 @@ def main():
         print(f"Error: {e}")
     driver.close()
 
+    # Switch focus on back on original tab
     driver.switch_to.window(driver.window_handles[0])
     time.sleep(2)
+
+     # Closing the browser
     driver.quit()
 
 
