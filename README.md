@@ -14,7 +14,8 @@ This is present in excel "Test assignment.xlsx". First sheet represents test sce
 2. Install the required dependencies/packges as per script being executed
 3. Make sure for avaialibity of config.py and selenium_utils.py files in folder
 4. Download the appropriate WebDriver for your browser (e.g., ChromeDriver) and place it in the project directory.
-5. Run test scripts for below individual test cases files which are also detailed in excel as reference: 
+5. Run test scripts for below individual test cases files which are also detailed in excel as reference:
+   command to run script on terminal "python script_name.py" (replace script_name.py with actual file names from below)
 
 ## Test Scripts to run
 1. tc01_dof_start_page.py
