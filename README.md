@@ -1,7 +1,7 @@
-This repository is created to maintain automation tests prepared for Digital Account opening form using Python It contains solution to the automation assignment.
+This repository is created to maintain automation tests prepared for Digital Account opening form using Python. It contains solution to the automation assignment.
 
 ## Test Scenario and Test case details
-This is present in excel "Test assignment.xlsx" First sheet represents test scenarios from assignment question Second sheet represents test cases for relevant scenarios with expected outcome
+This is present in excel "Test assignment.xlsx". First sheet represents test scenarios from assignment question and second sheet represents test cases for relevant scenarios with expected outcome
 
 ## System Requirements
 1. Python 3.x
