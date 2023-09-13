@@ -12,12 +12,12 @@ This is present in excel "Test assignment.xlsx" First sheet represents test scen
 1. Clone this repository to your local machine https://github.com/anilb394/lynx-test.git
 2. Install the required dependencies/packges
 3. Download the appropriate WebDriver for your browser (e.g., ChromeDriver) and place it in the project directory.
-4. Run the Selenium scripts for provided tests: 
-DOF_start_page.py- TC01 from excel 
-all_fields_check.py- TC02 
-mandatory_fields_check.py- TC03 
-invalid_missing_input.py- TC04 
-hyperlink_checks.py- TC05
+4. Run the Selenium scripts for below individual test cases files as mentioned in excel as reference: 
+TC01. DOF_start_page.py  
+TC02. all_fields_check.py
+TC03. mandatory_fields_check.py
+TC04. invalid_missing_input.py
+TC05. hyperlink_checks.py
 
 ## Bug report
 Sample bug report file "Sample_Bug_Report.docx"is attached as an example for observed issue
