@@ -1,8 +1,6 @@
 ## Description
-This repository is created to maintain automation tests prepared for Digital Account opening form using Python. It contains solution to the automation assignment.
+This repository is created to maintain automation tests prepared  using Python. It contains solution to the automation assignment.
 
-## Test Scenario and Test case details
-This is present in excel "Test Scenario and Cases.xlsx". First sheet represents test scenarios from assignment question and second sheet represents test cases for relevant scenarios with expected outcome
 
 ## System Requirements
 1. Python 3.x
@@ -17,11 +15,7 @@ This is present in excel "Test Scenario and Cases.xlsx". First sheet represents 
 5. Run respective test scripts available in folder "test-scripts" for below individual test cases files which are also detailed in "Test Scenario and Cases.xlsx" excel as reference: Use command to run script on terminal'python script_name.py' (replace script_name.py with actual file names from below)
 
 ## Test scripts 
-1. tc01_dof_start_page.py
-2. tc02_all_fields_check.py
-3. tc03_mandatory_fields_check.py
-4. tc04_invalid_missing_input.py
-5. tc05_hyperlink_checks.py
+This project is tested with BrowserStack.
 
 
 ## Bug report
